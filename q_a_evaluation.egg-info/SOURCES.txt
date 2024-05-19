@@ -1,0 +1,5 @@
+setup.py
+q_a_evaluation.egg-info/PKG-INFO
+q_a_evaluation.egg-info/SOURCES.txt
+q_a_evaluation.egg-info/dependency_links.txt
+q_a_evaluation.egg-info/top_level.txt
